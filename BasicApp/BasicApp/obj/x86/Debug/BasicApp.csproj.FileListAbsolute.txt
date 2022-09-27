@@ -1,0 +1,16 @@
+/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/bin/Debug/BasicApp.exe
+/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/bin/Debug/BasicApp.pdb
+/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/x86/Debug/actool/_PartialAppManifest.items
+/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/x86/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/x86/Debug/actool/_ProcessedImageAssetsPath.items
+/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/x86/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/x86/Debug/ibtool/_ProcessedInterfaceDefinitionsPath.items
+/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/x86/Debug/coremlc/_PartialAppManifest.items
+/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/x86/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/x86/Debug/coremlc/_ProcessedCoreMLModelsPath.items
+/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/x86/Debug/_ProcessedBundleResourcesPath.items
+/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/x86/Debug/_ProcessedContentPath.items
+/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/x86/Debug/BasicApp.csproj.AssemblyReference.cache
+/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/x86/Debug/BasicApp.csproj.CoreCompileInputs.cache
+/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/x86/Debug/BasicApp.exe
+/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/x86/Debug/BasicApp.pdb

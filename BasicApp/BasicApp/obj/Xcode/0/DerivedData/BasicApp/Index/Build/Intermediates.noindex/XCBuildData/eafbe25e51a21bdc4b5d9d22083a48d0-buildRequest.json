@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "aecefb4a23db5d2139153dba7a92fdcd6e2c1e2648dbd76176d66541342fb356"
+    }
+  ],
+  "containerPath" : "/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/Xcode/0/BasicApp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/Xcode/0/DerivedData/BasicApp/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/Xcode/0/DerivedData/BasicApp/Index/Build/Products",
+      "derivedDataPath" : "/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/Xcode/0/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/Xcode/0/DerivedData/BasicApp/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/Xcode/0/DerivedData/BasicApp/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/Xcode/0/DerivedData/BasicApp/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/ummarahmed/Desktop/UmmarData/Projects/learning project/CSharpLearning/C_Sharp_Learning/BasicApp/BasicApp/obj/Xcode/0/DerivedData/BasicApp/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
