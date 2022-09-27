@@ -30,5 +30,15 @@ namespace BasicApp
                 // Update the view, if already loaded.
             }
         }
+
+        partial void pushButton(NSButton sender)
+        {
+            Console.WriteLine("Button Pushed");
+        }
+
+        partial void resetButton(NSButton sender)
+        {
+            Console.WriteLine("Reset Button pressed");
+        }
     }
 }
