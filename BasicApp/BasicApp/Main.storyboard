@@ -689,7 +689,7 @@
                                 </connections>
                             </button>
                             <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="lQr-jV-7lq">
-                                <rect key="frame" x="222" y="205" width="37" height="16"/>
+                                <rect key="frame" x="110" y="205" width="260" height="16"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                                 <textFieldCell key="cell" lineBreakMode="clipping" alignment="center" id="qS6-tJ-kVf">
                                     <font key="font" metaFont="system"/>
@@ -711,7 +711,7 @@
                         </subviews>
                     </view>
                     <connections>
-                        <outlet property="infoLabel" destination="lQr-jV-7lq" id="nDL-CL-pTW"/>
+                        <outlet property="infoLabel" destination="lQr-jV-7lq" id="H1p-zh-Isv"/>
                     </connections>
                 </viewController>
                 <customObject id="rPt-NT-nkU" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>

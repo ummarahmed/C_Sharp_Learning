@@ -12,6 +12,9 @@ namespace BasicApp
 	[Register ("ViewController")]
 	partial class ViewController
 	{
+		[Outlet]
+		AppKit.NSTextField infoLabel { get; set; }
+
 		[Action ("pushButton:")]
 		partial void pushButton (AppKit.NSButton sender);
 
@@ -20,6 +23,10 @@ namespace BasicApp
 		
 		void ReleaseDesignerOutlets ()
 		{
+			if (infoLabel != null) {
+				infoLabel.Dispose ();
+				infoLabel = null;
+			}
 		}
 	}
 }

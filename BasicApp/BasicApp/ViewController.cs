@@ -33,12 +33,17 @@ namespace BasicApp
 
         partial void pushButton(NSButton sender)
         {
-            Console.WriteLine("Button Pushed");
+            this.setText("Push Button Pressed");
         }
 
         partial void resetButton(NSButton sender)
         {
-            Console.WriteLine("Reset Button pressed");
+            this.setText("Reset has come");
+        }
+
+        private void setText(String text)
+        {
+            infoLabel.StringValue = text;
         }
     }
 }
